@@ -2,5 +2,5 @@
 ![immagine](https://user-images.githubusercontent.com/39368816/219352697-fa6bc787-4fcf-4035-ae58-f785a0ebddc1.png)
  Springboot BACKEND
  
- ![immagine](https://user-images.githubusercontent.com/39368816/219352908-788cb852-87d3-4e2a-9b29-0feab7004e05.png)
+![immagine](https://user-images.githubusercontent.com/39368816/219353100-1b482a26-8871-4e3c-a325-1e5992d3562d.png)
  React FRONTEND
